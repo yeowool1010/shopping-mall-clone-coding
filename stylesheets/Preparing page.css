@@ -1,0 +1,17 @@
+.preparing-page {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin-top: 10%;
+}
+.icon {
+    width: 10rem;
+    height: 10rem;
+}
+.preparing-page-text {
+    font-size: 3rem;
+}
+.preparing-page {
+    font-size: 2rem;
+    cursor: pointer;
+}

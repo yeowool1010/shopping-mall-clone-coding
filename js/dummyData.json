@@ -1,0 +1,131 @@
+{
+"dummyData":
+[
+    {
+        "id": 1,
+        "category": "Outer",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTIz/MDAxNjYxNjE1NjA4ODY5.7ZogHVOOIqafOL0vbI0lB_QUJl3SAY8IXh1jy12y_-0g.1VzhCaakHpiFNqxxQGdJrPN2b10kTZeX1h3Qk1oXSeEg.JPEG.qyoong3579/5.jpg?type=w773",
+        "item_name": "남자 마이 자켓",
+        "price": "35,000"
+    },
+    {
+        "id": 2,
+        "category": "Tops",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfNDIg/MDAxNjYxNjE1NjA4ODUy.l1gpDYlzZIMSbsgPgfJfRhzFv_1Jkip0UdPbKKoXT14g.mghJS6qNb4MYzFNwlW5rJsHBWRwB2gGNYeaKYoCcsTAg.JPEG.qyoong3579/6.jpg?type=w773",
+        "item_name": "블라우스 셔츠",
+        "price": "15,000"
+    },
+    {
+        "id": 3,
+        "category": "Bottoms",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTA1/MDAxNjYxNjE1NjIwOTMy.HtuZzaqgk7HPnyEfg4dhGxC77JysszE3gAVnMoYnYeEg.c2gradn6tm4TgOrwZl-REe273LEZ0oJ-Ozs52boaBLUg.JPEG.qyoong3579/1.jpg?type=w773",
+        "item_name": "멋쟁이 청바지",
+        "price": "40,000"
+    },
+    {
+        "id": 4,
+        "category": "Outer",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfODQg/MDAxNjYxNjE1NjEzMjAy.nEgpZhx3U6URodzGC8_bXft36kKZXP7HHv5yKThloDwg.YZpbJu7gVlUwD9wVejKxgmJGUGrFwj4F1CHmxTWcw_Mg.JPEG.qyoong3579/4.jpg?type=w773",
+        "item_name": "오버핏인데 나는 그냥핏 흰색 마이",
+        "price": "50,000"
+    },
+    {
+        "id": 5,
+        "category": "Tops",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMjQ1/MDAxNjYxNjE1NjEzMjQ4.CjeXZ_OMTTPz7l6VOTE8o3mJmf9hDZmE_UY7bRrlqVMg.M-S8r0zKO5UpQ2x_VcJcCUfxP6gLCGHwTZTLBYBs9T0g.JPEG.qyoong3579/3.jpg?type=w773",
+        "item_name": "흰색원피스는 아니고 검정색 천쪼가리",
+        "price": "9,000"
+    },
+    {
+        "id": 6,
+        "category": "Bottoms",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfNTEg/MDAxNjYxNjE1NjEzMjAx.9XSOZU863TSn6DpOvuD_pYDmmAQgWHmHj7X01hL1L4wg.15JkGEGJ72YyFl3DgaguZWXcAUENdpSRnOEQSNoUwVQg.JPEG.qyoong3579/2.jpg?type=w773",
+        "item_name": "세트 아니고 치마만",
+        "price": "90,000"
+    },
+    {
+        "id": 7,
+        "category": "Outer",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTkx/MDAxNjYxNjE1NjA4ODkz.uW7kwJH5VJ36ULQAmIVLQC98Y68_ox609EpkOvLyrEkg.C1tYGQDXn2X0-FNamF4mgu7zLb3YGXL3uHyqDXRr3_Ug.JPEG.qyoong3579/9.jpg?type=w773",
+        "item_name": "옷인줄알았지?",
+        "price": "5,000"
+    },
+    {
+        "id": 8,
+        "category": "Tops",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTI4/MDAxNjYxNjE1NjA4ODgz.L_TL_gsSzZJjeNeR9sd2eVqKKl37jnTBS1wJU-Fpb9kg.LbaqbzNiRjl8OeeQpgmo481HdcFdiSm6dn7hxzDVxcog.JPEG.qyoong3579/7.jpg?type=w773",
+        "item_name": "(해외직구)이태리장인 반팔티",
+        "price": "100,000"
+    },
+    {
+        "id": 9,
+        "category": "Bottoms",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTAg/MDAxNjYxNjE1NjA4ODky.f0a9BfbzJRT1FEKyjrdXPKVgv640kfJo5t_esx6BctUg.IF5MmPGFrA_2-1deCD-FLZb9SGqVDq6tHV_hIKsZNbkg.JPEG.qyoong3579/8.jpg?type=w773",
+        "item_name": "아무나 못입는 원피스",
+        "price": "43,000"
+    },
+    {
+        "id": 10,
+        "category": "Outer",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTIz/MDAxNjYxNjE1NjA4ODY5.7ZogHVOOIqafOL0vbI0lB_QUJl3SAY8IXh1jy12y_-0g.1VzhCaakHpiFNqxxQGdJrPN2b10kTZeX1h3Qk1oXSeEg.JPEG.qyoong3579/5.jpg?type=w773",
+        "item_name": "남자 마이 자켓",
+        "price": "35,000"
+    },
+    {
+        "id": 11,
+        "category": "Tops",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfNDIg/MDAxNjYxNjE1NjA4ODUy.l1gpDYlzZIMSbsgPgfJfRhzFv_1Jkip0UdPbKKoXT14g.mghJS6qNb4MYzFNwlW5rJsHBWRwB2gGNYeaKYoCcsTAg.JPEG.qyoong3579/6.jpg?type=w773",
+        "item_name": "블라우스 셔츠",
+        "price": "15,000"
+    },
+    {
+        "id": 12,
+        "category": "Bottoms",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTA1/MDAxNjYxNjE1NjIwOTMy.HtuZzaqgk7HPnyEfg4dhGxC77JysszE3gAVnMoYnYeEg.c2gradn6tm4TgOrwZl-REe273LEZ0oJ-Ozs52boaBLUg.JPEG.qyoong3579/1.jpg?type=w773",
+        "item_name": "멋쟁이 청바지",
+        "price": "40,000"
+    },
+    {
+        "id": 13,
+        "category": "Outer",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfODQg/MDAxNjYxNjE1NjEzMjAy.nEgpZhx3U6URodzGC8_bXft36kKZXP7HHv5yKThloDwg.YZpbJu7gVlUwD9wVejKxgmJGUGrFwj4F1CHmxTWcw_Mg.JPEG.qyoong3579/4.jpg?type=w773",
+        "item_name": "오버핏 흰색 마이",
+        "price": "50,000"
+    },
+    {
+        "id": 14,
+        "category": "Tops",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMjQ1/MDAxNjYxNjE1NjEzMjQ4.CjeXZ_OMTTPz7l6VOTE8o3mJmf9hDZmE_UY7bRrlqVMg.M-S8r0zKO5UpQ2x_VcJcCUfxP6gLCGHwTZTLBYBs9T0g.JPEG.qyoong3579/3.jpg?type=w773",
+        "item_name": "흰색원피스는 아니고 검정색 천쪼가리",
+        "price": "9,000"
+    },
+    {
+        "id": 15,
+        "category": "Bottoms",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfNTEg/MDAxNjYxNjE1NjEzMjAx.9XSOZU863TSn6DpOvuD_pYDmmAQgWHmHj7X01hL1L4wg.15JkGEGJ72YyFl3DgaguZWXcAUENdpSRnOEQSNoUwVQg.JPEG.qyoong3579/2.jpg?type=w773",
+        "item_name": "세트 아니고 치마만",
+        "price": "90,000"
+    },
+    {
+        "id": 16,
+        "category": "Outer",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTkx/MDAxNjYxNjE1NjA4ODkz.uW7kwJH5VJ36ULQAmIVLQC98Y68_ox609EpkOvLyrEkg.C1tYGQDXn2X0-FNamF4mgu7zLb3YGXL3uHyqDXRr3_Ug.JPEG.qyoong3579/9.jpg?type=w773",
+        "item_name": "옷인줄알았지?",
+        "price": "5,000"
+    },
+    {
+        "id": 17,
+        "category": "Tops",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTI4/MDAxNjYxNjE1NjA4ODgz.L_TL_gsSzZJjeNeR9sd2eVqKKl37jnTBS1wJU-Fpb9kg.LbaqbzNiRjl8OeeQpgmo481HdcFdiSm6dn7hxzDVxcog.JPEG.qyoong3579/7.jpg?type=w773",
+        "item_name": "(해외직구)이태리장인 반팔티",
+        "price": "100,000"
+    },
+    {
+        "id": 18,
+        "category": "Bottoms",
+        "img": "https://postfiles.pstatic.net/MjAyMjA4MjhfMTAg/MDAxNjYxNjE1NjA4ODky.f0a9BfbzJRT1FEKyjrdXPKVgv640kfJo5t_esx6BctUg.IF5MmPGFrA_2-1deCD-FLZb9SGqVDq6tHV_hIKsZNbkg.JPEG.qyoong3579/8.jpg?type=w773",
+        "item_name": "아무나 못입는 원피스",
+        "price": "43,000"
+    }
+]
+}

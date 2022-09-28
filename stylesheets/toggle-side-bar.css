@@ -1,0 +1,127 @@
+
+.toggle{
+    display: none;
+}
+
+
+.toggle-side-bar {
+    display: none;
+    transition: 2s
+}
+
+@media screen and (max-width: 1024px) {
+    .close-btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 10%;
+        height: 2rem;
+        margin: 10px;
+        box-shadow: 2px 2px 5px 2px gray;
+        cursor: pointer;
+        border-radius: 20%;
+    }
+    .cate-menu,
+    .header-right {
+        display: none;
+    }
+    .toggle-side-bar.active {
+        display: block;
+        transition: 2s
+    }
+    /* 왜 애니메이션적용이 안될까? */
+    .toggle-side-bar.animate {
+        transition-duration: 2s;
+    }
+    .toggle {
+        display: block;
+        width: 41px;
+        height: 34px;
+        border: 0;
+        outline: 0;
+        background: none;
+        cursor: pointer;
+        z-index: 100;
+    }
+    .inner {
+        padding: 50px 70px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .side-bar {
+        display: block;
+        position: fixed;
+        width: 30%;
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: 99;
+        background: #ffffff;
+        overflow-y: auto;
+        font-size: 12pt;
+    }
+
+    .side-bar:active {
+        display: block;
+    }
+    
+    .side-my-menu {
+        display: flex;
+        padding: 0;
+    }
+    .side-my-menu>li {
+        width: 100px;
+    }
+
+    .side-cate_menu {
+        margin: 0;
+        padding-top: 40px;
+        padding-left: 0;
+    }
+
+    .side-cate_menu-shop, .side-cate_menu-COMMUNITY {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .side-cate_menu>li {
+        padding-top: 10px;
+        font-size: 11pt;
+    }
+
+    .menu-hover {
+        color: black;
+    }
+    
+    .menu-hover:hover {
+        color: gray;
+    }
+    
+    .side-bg {
+        display: block;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 98;
+        background-color: rgba(0,0,0,0.35);
+        -webkit-animation: fade 350ms;
+        -moz-animation: fade 350ms;
+        -o-animation: fade 350ms;
+        animation: fade 350ms;
+    }
+
+    .side-bg:active {
+        display: block;
+    }
+    
+    .side-bar-menu {
+        padding: 0% 10% 10% 25%;
+        font-size: 12px;
+        font-family: 'Hind', sans-serif;
+    }
+    
+}
+    

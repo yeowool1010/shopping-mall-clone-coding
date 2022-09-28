@@ -1,0 +1,21 @@
+@import url("./stylesheets/header.css");
+@import url(./stylesheets/footer.css);
+@import url(./stylesheets/main-reset.css);
+@import url(./stylesheets/main-page.css);
+@import url(./stylesheets/about.css);
+@import url(./stylesheets/shop.css);
+@import url(./stylesheets/toggle-side-bar.css);
+@import url(./stylesheets/Preparing\ page.css);
+@import url(./stylesheets/Pagination.css);
+@import url(./stylesheets/Carousel.css);
+/* test */
+
+@font-face {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/WooridaumB.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}

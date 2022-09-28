@@ -1,0 +1,50 @@
+footer {
+    margin: auto;
+    padding: 51px 30px 50px;
+    width: 90%;
+    display: table;
+    z-index: 99;
+    font-size: 11px;
+	font-family: 'Hind', sans-serif;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
+
+.address-menu {
+    margin: 0;
+    padding: 0;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0;
+}
+
+.cs-menu {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 150px 0 0;
+}
+
+.care-menu {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 150px 0 0;
+}
+
+.link-menu {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.menu-hover {
+    color: black;
+}
+
+.menu-hover:hover {
+    color: gray;
+}
